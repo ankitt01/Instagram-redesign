@@ -1,2 +1,2 @@
 # Instagram-redesign <br>
-ankitt01.github.io/Instagram-redesign/
+https://ankitt01.github.io/Instagram-redesign/
